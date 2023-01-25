@@ -1,0 +1,8 @@
+0.7
+2020.1
+May 27 2020
+20:09:33
+C:/Users/rsobti/Downloads/cpe-133-main/cpe-133-main/labs/someproject1/someproject1.sim/sim_1/behav/xsim/glbl.v,1590624368,verilog,,,,glbl,,,,,,,,
+C:/Users/rsobti/Downloads/cpe-133-main/cpe-133-main/labs/someproject1/someproject1.srcs/sources_1/imports/labs/lab-01a/POS_fullAdder.v,1674607882,verilog,,C:/Users/rsobti/Downloads/cpe-133-main/cpe-133-main/labs/someproject1/someproject1.srcs/sources_1/imports/labs/lab-01a/SOP_fullAdder.v,,POS_fullAdder,,,,,,,,
+C:/Users/rsobti/Downloads/cpe-133-main/cpe-133-main/labs/someproject1/someproject1.srcs/sources_1/imports/labs/lab-01a/SOP_fullAdder.v,1674607882,verilog,,,,SOP_fullAdder,,,,,,,,
+C:/Users/rsobti/Downloads/cpe-133-main/cpe-133-main/labs/someproject1/someproject1.srcs/sources_1/imports/labs/lab_1/lab_1.srcs/sim_1/imports/new/test_fulladder.v,1674611359,systemVerilog,,,,test_fulladder,,,,,,,,
